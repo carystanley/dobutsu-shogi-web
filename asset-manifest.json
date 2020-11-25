@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "https://carystanley.github.io/dobutsu-shogi-web/static/css/main.6df4b72c.chunk.css",
+    "main.js": "https://carystanley.github.io/dobutsu-shogi-web/static/js/main.741e7364.chunk.js",
+    "main.js.map": "https://carystanley.github.io/dobutsu-shogi-web/static/js/main.741e7364.chunk.js.map",
+    "runtime-main.js": "https://carystanley.github.io/dobutsu-shogi-web/static/js/runtime-main.2d6e7dd1.js",
+    "runtime-main.js.map": "https://carystanley.github.io/dobutsu-shogi-web/static/js/runtime-main.2d6e7dd1.js.map",
+    "static/js/2.62b72c62.chunk.js": "https://carystanley.github.io/dobutsu-shogi-web/static/js/2.62b72c62.chunk.js",
+    "static/js/2.62b72c62.chunk.js.map": "https://carystanley.github.io/dobutsu-shogi-web/static/js/2.62b72c62.chunk.js.map",
+    "static/js/3.7e8fd7ba.chunk.js": "https://carystanley.github.io/dobutsu-shogi-web/static/js/3.7e8fd7ba.chunk.js",
+    "static/js/3.7e8fd7ba.chunk.js.map": "https://carystanley.github.io/dobutsu-shogi-web/static/js/3.7e8fd7ba.chunk.js.map",
+    "index.html": "https://carystanley.github.io/dobutsu-shogi-web/index.html",
+    "static/css/main.6df4b72c.chunk.css.map": "https://carystanley.github.io/dobutsu-shogi-web/static/css/main.6df4b72c.chunk.css.map",
+    "static/js/2.62b72c62.chunk.js.LICENSE.txt": "https://carystanley.github.io/dobutsu-shogi-web/static/js/2.62b72c62.chunk.js.LICENSE.txt",
+    "static/media/0FU.cfa8f976.svg": "https://carystanley.github.io/dobutsu-shogi-web/static/media/0FU.cfa8f976.svg",
+    "static/media/doubutsuboard.7e6d9701.svg": "https://carystanley.github.io/dobutsu-shogi-web/static/media/doubutsuboard.7e6d9701.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2d6e7dd1.js",
+    "static/js/2.62b72c62.chunk.js",
+    "static/css/main.6df4b72c.chunk.css",
+    "static/js/main.741e7364.chunk.js"
+  ]
+}
