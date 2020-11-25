@@ -1,12 +1,14 @@
 import { DndProvider } from 'react-dnd'
-import { HTML5Backend } from 'react-dnd-html5-backend'
+import { TouchBackend } from 'react-dnd-touch-backend'
 import Board from './Board';
 import './App.css';
 
 function App() {
   return (
     <div className="App">
-        <DndProvider backend={HTML5Backend}>
+        <DndProvider backend={TouchBackend} options={{
+            enableMouseEvents: true
+        }}>
             <div style={{ width: 520, height: 800 }}>
                 <Board />
             </div>
