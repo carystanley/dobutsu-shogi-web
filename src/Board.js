@@ -33,7 +33,7 @@ function Board(props) {
 
     function renderPiece(x, y) {
         if ( x === 1 && y === 2 ) {
-            return <Piece />
+            return <Piece x={x} y={y} />
         }
         return null;
     }
